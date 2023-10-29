@@ -1,0 +1,2 @@
+Dog is a Domestic Animal.
+Dog is also freindly animal.
